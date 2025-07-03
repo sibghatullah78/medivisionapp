@@ -1,0 +1,11 @@
+name: dart_backend
+description: Backend for prescription scanning app
+version: 1.0.0
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  shelf: ^1.4.0
+  shelf_multipart: ^1.0.0
+  http: ^0.13.5
+  dotenv: ^3.0.0

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495340383811",
+    "project_id": "fypaapp",
+    "storage_bucket": "fypaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495340383811:android:ee9171a91559b3ea02aef6",
+        "android_client_info": {
+          "package_name": "com.company.fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHwvwPADh9MmDkzvoItSeZwO840--mz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495340383811:android:892475f595ac667c02aef6",
+        "android_client_info": {
+          "package_name": "com.example.medi_vision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHwvwPADh9MmDkzvoItSeZwO840--mz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
